@@ -1,6 +1,7 @@
-☕ Proyecto de Gestión de Productos de Café https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/MockAPI-FF6B6B?style=for-the-badge&logo=json&logoColor=white https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+#☕ Proyecto de Gestión de Productos de Café 
+https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/MockAPI-FF6B6B?style=for-the-badge&logo=json&logoColor=white https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-📖 Descripción Sistema web elegante para gestionar productos de café, desarrollado con Bulma CSS y JavaScript vanilla. La aplicación permite visualizar, crear, filtrar y buscar productos de café conectados a una API RESTful mockeada.
+##📖 Descripción Sistema web elegante para gestionar productos de café, desarrollado con Bulma CSS y JavaScript vanilla. La aplicación permite visualizar, crear, filtrar y buscar productos de café conectados a una API RESTful mockeada.
 
 ✨ Características Principales 🎨 Interfaz de Usuario Diseño responsive con Bulma CSS
 
