@@ -186,7 +186,7 @@ saveBtn.addEventListener("click", async () => {
   // Validación con destructuring
   const { name, price, type, roast } = product;
   
-  if (!name || !price || !type || !roast) {
+  if (!name || !price || !type || !roast) { // Campos obligatorios, validación 
     showNotification(
       "Por favor, completa todos los campos obligatorios",
       "is-danger"
