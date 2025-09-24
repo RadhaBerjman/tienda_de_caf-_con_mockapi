@@ -53,7 +53,7 @@ async function fetchProducts() {
     updatePagination(Array.isArray(data) ? data.length : 0);
   } catch (error) {
     console.error("Error fetching products:", error);
-    showNotification("Error al cargar los productos", "is-danger");
+    showNotification("Error al cargar los productos 😞", "is-danger");
   } finally {
     hideSpinner();
   }
@@ -236,7 +236,6 @@ async function editProduct(id) {
     showNotification("Error al cargar el producto 😞", "is-danger");
   }
 }
-
 // Eliminar producto
 async function deleteProduct(id) {
   if (confirm("¿Seguro que quieres eliminar este producto 🤔?")) {
@@ -250,6 +249,5 @@ async function deleteProduct(id) {
     }
   }
 }
-
 //Iniciar app mostrando todos los productos
 fetchProducts();

@@ -1,8 +1,11 @@
-☕ Proyecto de Gestión de Productos de Café https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/MockAPI-FF6B6B?style=for-the-badge&logo=json&logoColor=white https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+# ☕ Proyecto de Gestión de Productos de Café 
+https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/MockAPI-FF6B6B?style=for-the-badge&logo=json&logoColor=white https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
-📖 Descripción Sistema web elegante para gestionar productos de café, desarrollado con Bulma CSS y JavaScript vanilla. La aplicación permite visualizar, crear, filtrar y buscar productos de café conectados a una API RESTful mockeada.
+<img width="1895" height="887" alt="Captura de pantalla 2025-09-24 084420" src="https://github.com/user-attachments/assets/9fc40e03-d211-4643-a6d3-e4974fe9a393" />
 
-✨ Características Principales 🎨 Interfaz de Usuario Diseño responsive con Bulma CSS
+## 📖 Descripción Sistema web elegante para gestionar productos de café, desarrollado con Bulma CSS y JavaScript vanilla. La aplicación permite visualizar, crear, filtrar y buscar productos de café conectados a una API RESTful mockeada.
+
+## ✨ Características Principales 🎨 Interfaz de Usuario Diseño responsive con Bulma CSS
 
 Modo claro con interfaz elegante y moderna
 
@@ -12,7 +15,8 @@ Modal para agregar/editar productos
 
 Sistema de notificaciones integrado
 
-⚙️ Funcionalidades CRUD CREATE: Agregar nuevos productos de café
+## ⚙️ Funcionalidades CRUD CREATE: 
+Agregar nuevos productos de café
 
 READ: Visualizar todos los productos
 
@@ -20,7 +24,7 @@ Filtrado avanzado por múltiples criterios
 
 Búsqueda en tiempo real
 
-🔍 Sistema de Filtrado Búsqueda por nombre en tiempo real
+## 🔍 Sistema de Filtrado Búsqueda por nombre en tiempo real
 
 Filtrado por tipo de café (Arábicos, Robustos, Mezclas)
 
@@ -28,9 +32,9 @@ Filtrado por tueste (Blonde, Medium, Dark)
 
 Botón para limpiar todos los filtros
 
-🚀 Demo Puedes probar la aplicación aquí o clonando el repositorio y abriendo el archivo index.html en tu navegador.
+## 🚀 Demo Puedes probar la aplicación aquí o clonando el repositorio y abriendo el archivo index.html en tu navegador.
 
-🛠️ Tecnologías Utilizadas HTML5 - Estructura semántica del proyecto
+## 🛠️ Tecnologías Utilizadas HTML5 - Estructura semántica del proyecto
 
 Bulma CSS 1.0.4 - Framework CSS para el diseño
 
@@ -40,7 +44,7 @@ Font Awesome 6.4.0 - Iconografía y elementos visuales
 
 MockAPI.io - API mock para persistencia de datos
 
-🎯 Uso Visualización de Productos La página principal muestra todos los productos de café en tarjetas organizadas con:
+## 🎯 Uso Visualización de Productos La página principal muestra todos los productos de café en tarjetas organizadas con:
 
 Imagen del producto
 
@@ -100,7 +104,7 @@ Modifica la renderización de las tarjetas
 
 🖥️ Large Screens (1440px+)
 
-🤝 Agradecimientos Bulma CSS por el excelente framework de CSS
+## 🤝 Agradecimientos Bulma CSS por el excelente framework de CSS
 
 MockAPI por el servicio de API mocking
 
